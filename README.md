@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+Rancho Kentucky 🐴
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao repositório do site Rancho Kentucky! Este é um site desenvolvido para apresentar os serviços e instalações do Rancho Kentucky, um haras especializado em treinamento de equitação para iniciantes e hospedagem para cavalos, localizado em Sorocaba-SP.
 
-## Available Scripts
+🌟 Sobre o Rancho Kentucky
 
-In the project directory, you can run:
+O Rancho Kentucky é um espaço dedicado aos amantes de cavalos, oferecendo um ambiente natural, seguro e acolhedor para o desenvolvimento da conexão entre cavaleiros e seus animais. Nossa missão é proporcionar aprendizado na arte da equitação para todas as idades e cuidados de alta qualidade para os cavalos hospedados.
 
-### `npm start`
+Principais Destaques:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Instrutores qualificados e experientes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Ambiente natural e tranquilo, ideal para a prática da equitação.
 
-### `npm test`
+Cuidados personalizados e atenção de alta qualidade para cavaleiros e cavalos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✨ Funcionalidades do Site
 
-### `npm run build`
+O site apresenta as seguintes seções e funcionalidades:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Início (Hero): Apresentação visual impactante do Rancho Kentucky com acesso rápido às principais seções.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Sobre (About): Descreve a missão, o ambiente e os diferenciais do rancho.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Serviços (Services): Detalha os serviços oferecidos:
 
-### `npm run eject`
+Treinamento de Equitação para Iniciantes:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Aulas individuais ou em grupo.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Ensino de técnicas básicas de montaria.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Instruções sobre cuidados básicos com o animal.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Equipamentos de segurança inclusos.
 
-## Learn More
+Hospedagem para Cavalos:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Baias espaçosas e confortáveis.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Alimentação balanceada.
 
-### Code Splitting
+Acompanhamento veterinário regular.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Áreas de pastagem e exercício.
 
-### Analyzing the Bundle Size
+Galeria (Gallery): Mostra fotos do espaço, dos cavalos e das atividades do rancho.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contato (Contact):
 
-### Making a Progressive Web App
+Formulário para envio de mensagens via WhatsApp.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Informações de contato: endereço, telefone, e-mail e horário de funcionamento.
 
-### Advanced Configuration
+Links para redes sociais (Instagram).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Header e Footer: Navegação intuitiva e informações adicionais.
 
-### Deployment
+Design Responsivo: Adaptável a diferentes tamanhos de tela para uma ótima experiência do usuário.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+🛠️ Tecnologias Utilizadas
 
-### `npm run build` fails to minify
+React: Biblioteca JavaScript para construção da interface do usuário.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+React Router DOM: Para gerenciamento de rotas na aplicação de página única (SPA).
+
+Tailwind CSS: Framework CSS utility-first para estilização rápida e customizável.
+
+HTML5 & CSS3: Estruturação e estilização base.
